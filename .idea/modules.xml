@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-training.iml" filepath="$PROJECT_DIR$/.idea/spring-training.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2.11/spring5webapp.iml" filepath="$PROJECT_DIR$/2.11/spring5webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 2/spring5webapp.iml" filepath="$PROJECT_DIR$/Section 2/spring5webapp.iml" />
     </modules>
   </component>
 </project>
